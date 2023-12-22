@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🛐 Atualmente trabalando como dono de casa para minha mãe
+- 🛐 Atualmente trabalhando como dono de casa para minha mãe
 - 👨🏼‍💻 Estudando HTML e CSS
 - ⚡ Aprendo as coisas bem rápido
 - 🏐 Cozinho muito bem e amo jogar vôlei
