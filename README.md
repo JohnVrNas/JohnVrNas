@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🛐 Atualmente trabalhando como dono de casa para minha mãe
-- 👨🏼‍💻 Estudando HTML e CSS
-- ⚡ Aprendo as coisas bem rápido
-- 🏐 Cozinho muito bem e jogo vôlei
+- 🛐 Actually working for my mom as a housekeeper
+- 👨🏼‍💻 Studying Object Oriented Programming 
+- ⚡ Always learning new things
+- 🤖 Learning PHP and JavaScript
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
