@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🛐 Actually working for my mom as a housekeeper
+- 🛐 Currently working for my mom as a housekeeper
 - 👨🏼‍💻 Studying Object Oriented Programming 
 - ⚡ Always learning new things
 - 🤖 Learning PHP and JavaScript
