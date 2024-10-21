@@ -3,7 +3,7 @@
 - 🛐 Currently working for my mom as a househusband
 - 👨🏼‍💻 Studying Object Oriented Programming 
 - ⚡ Always learning new things
-- 🤖 Learning Java, JavaScript and Information Security
+- 🤖 Learning Java, JavaScript and InfoSec
   
 <div style="display: inline_block"><br>
   <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
