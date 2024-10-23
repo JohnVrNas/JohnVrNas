@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🛐 Currently working for my mom as a househusband
+- 🦾 Currently studying Analysis and Systems Development (ADS)
 - 👨🏼‍💻 Studying Object Oriented Programming 
 - ⚡ Always learning new things
 - 🤖 Learning Java, JavaScript and InfoSec
