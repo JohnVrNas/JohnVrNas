@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🦾 Currently studying Analysis and Systems Development (ADS)
-- 👨🏼‍💻 Studying Object Oriented Programming 
+- 👨🏼‍💻 Creating an API REST with Java
 - ⚡ Always learning new things
-- 🤖 Learning Java, JavaScript and InfoSec
+- 🤖 Learning Java Swing
   
 <div style="display: inline_block"><br>
   <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
